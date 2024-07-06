@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+/dist
+
+# environment variables
+.env
+
+# IDE / editor specific files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
